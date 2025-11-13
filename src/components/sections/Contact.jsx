@@ -1,4 +1,4 @@
-function contact() {
+function Contact() {
     return (
         <section className="container mx-auto p-4 ">
 
@@ -37,4 +37,4 @@ function contact() {
     )
 }
 
-export default contact
+export default Contact

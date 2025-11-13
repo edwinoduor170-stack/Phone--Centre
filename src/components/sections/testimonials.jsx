@@ -47,7 +47,7 @@ const testimonials = [
     }
 ];
 
-const Testimonial = () => {
+const Testimonials = () => {
     const [index, setIndex] = useState(0);
     const { name, role, text, image } = testimonials[index];
 
@@ -120,4 +120,4 @@ const Testimonial = () => {
     );
 };
 
-export default Testimonial;
+export default Testimonials;
