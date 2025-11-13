@@ -8,7 +8,7 @@ import Expertise from './components/sections/Expertise';
 import Services from './components/sections/Services';
 import About from './components/sections/About';
 import Testimonial from './components/sections/testimonials';
-import Contact from './components/sections/contact';
+import Contact from './components/sections/Contact';
 import Footer from './components/layout/footer';
 import Products from './components/common/Card';
 import Signup from './components/sections/Signup';
