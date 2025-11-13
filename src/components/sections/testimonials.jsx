@@ -5,53 +5,45 @@ const testimonials = [
     {
         id: 1,
         name: "Josh Smith",
-        role: "Manager of The New York Times",
-        text: "They have a perfect touch for making something so professional, interesting and useful for a lot of people.We are very happy to work with them.",
-        image: "/test8.png",
+        role: "Manager Royal Media",
+        text:"I recently bought a phone from this company and I'm blown away by the quality and service! The phone is sleek, fast, and has amazing camera quality. The prices are unbeatable and the delivery was super quick. Highly recommend!",
+        image: "/Testmn 1.jpg",
     },
     {
         id: 2,
-        name: "Anna Johnson",
-        role: "Marketing Director at Apple",
-        text: "Their team is amazing! The design and quality were exactly what we envisioned. We couldn't have asked for a better partner.",
-        image: "/test2.png",
+        name: "Anna Wamboi",
+        role: "Marketing@ Coca-Cola",
+        text: "I'm loving my new phone from this company! The battery life is amazing and the camera quality is top-notch. Highly recommend!",
+        image: "/Testmn 2.jpg",
     },
     {
         id: 3,
         name: "Michael Brown",
-        role: "Architect at BuildX",
-        text: "Great service and attention to detail. I would recommend them to anyone.I'm extremely satisfied with my experience.",
-        image: "/test5.png",
+        role: "Local Fruits Vendor",
+        text: "I was hesitant at first, but the price was too good to pass up. I'm glad I took the leap - great phone, great service!",
+        image: "/Testmn 3.jpg",
     },
     {
         id: 4,
         name: "John Nolan",
-        role: "Architect",
-        text: "I highly recommend their services. They exceeded our expectations in every way.They are true professionals.",
-        image: "/test4.png"
+        role: "Forklift Operator Nas",
+        text: "Fast delivery and excellent customer service. The phone is exactly as described. 10/10 would recommend!",
+        image: "/testmn 4.jpg"
     },
 
     {
         id: 5,
         name: "Sarah Lee",
-        role: "CEO of DesignPro",
-        text: "Their expertise in design is unmatched. They truly understand our vision. The end result was stunning.",
-        image: "/test9.png"
+        role: "Chef Hilton Hotel",
+        text: "I've had my phone for a week now and I'm impressed. The performance is smooth and the design is sleek. Great purchase!",
+        image: "/Testmn 5.jpg"
     },
     {
         id: 6,
-        name: "David Wilson",
-        role: "Project Manager at BuildIt",
-        text: "Their attention to detail and commitment to excellence is evident in every project. We are thrilled with the results.",
-        image: "/test6.png"
-    },
-
-    {
-        id: 7,
-        name: "Emily Davis",
-        role: "Creative Director at ArtHouse",
-        text: "Working with them was a fantastic experience. They brought our ideas to life beautifully. We look forward to future collaborations.",
-        image: "/test3.png"
+        name: "Sarah Owino",
+        role: "CEO Yetu Restaurants",
+        text: "Best phone I've ever owned! The features are lit and the price is unbeatable. Thanks for the great service!",
+        image: "/Testmn 6.jpg"
     }
 ];
 
@@ -119,7 +111,7 @@ const Testimonial = () => {
 
             <div className="flex justify-center shadow-md" >
                 <img
-                    src="/Location.jpg"
+                    src="/Product 4.jpg"
                     alt="testimonial background"
                     className="w-full h-[400px] object-cover rounded-xl shadow-md"
                 />

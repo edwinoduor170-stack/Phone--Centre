@@ -3,59 +3,59 @@ import React, { useState } from "react";
 const productsData = [
     {
         id: 1,
-        name: " Classic Mug",
-        image: "/Location.jpg",
-        price: 150,
-        oldPrice: 200,
+        name: "Apple Iphone 11",
+        image: "/Product 1.jpg",
+        price: 37000,
+        oldPrice: 40000,
     },
     {
         id: 2,
-        name: " T-Shirt",
-        image: "/Location.jpg",
-        price: 350,
-        oldPrice: 400,
+        name: " Samsung Galaxy S21",
+        image: "/Product 2.jpg",
+        price: 45707,
+        oldPrice: 53600,
     },
     {
         id: 3,
-        name: " Hoodie",
-        image: "/Location.jpg",
-        price: 400,
-        oldPrice: 550,
+        name: "Oppo A6 Pro",
+        image: "/Product 3.jpg",
+        price: 33599,
+        oldPrice: 35999,
     },
     {
         id: 4,
-        name: "Tumbler",
-        image: "/Location.jpg",
-        price: 350,
-        oldPrice: 450,
+        name: "Oppo Reno 13 F 4G",
+        image: "/Product 4.jpg",
+        price: 35799,
+        oldPrice:37999,
     },
     {
         id: 5,
-        name: " Blue Hoodie",
-        image: "/Location.jpg",
-        price: 500,
-        oldPrice: 600,
+        name: " Samsung Galaxy Z Fold 5",
+        image: "/Product 5.jpg",
+        price: 89000,
+        oldPrice: 150000,
     },
     {
         id: 6,
-        name: "Smart Watch",
-        image: "/Location.jpg",
-        price: 2500,
-        oldPrice: 2900,
+        name: "Samsung Galaxy Z Fold 4 5G",
+        image: "/Product 6.jpg",
+        price: 79800,
+        oldPrice: 105000,
     },
     {
         id: 7,
-        name: "Gym Bag",
-        image: "/Location.jpg",
-        price: 650,
-        oldPrice: 800,
+        name: "Apple Refurbished I Phone X",
+        image: "/Product 7.jpg",
+        price: 25000,
+        oldPrice: 35000,
     },
     {
         id: 8,
-        name: "Sweatshirt",
-        image: "/Location.jpg",
-        price: 1000,
-        oldPrice: 1200,
+        name: "Oppo Reno 14 5G",
+        image: "/Product 8.jpg",
+        price: 54789,
+        oldPrice: 59999,
     },
     {
         id: 9,
@@ -127,9 +127,9 @@ const Products = () => {
 
     return (
         <section className="py-10 px-4 text-center">
-            <h2 className="text-3xl text-blue-950  font-bold mb-2 md:text-4xl">Artex Merchandise</h2>
+            <h2 className="text-5xl text-violet-700  font-bold mb-2 md:text-4xl">ePhon Duka</h2>
             <p className="text-gray-500 mb-8">
-                Explore premium Artex-branded merchandise — quality, comfort, and style in every product.
+                Get the best smartphones with advanced features, sleek designs and unbeatable performance.
             </p>
 
             {/* Product grid */}

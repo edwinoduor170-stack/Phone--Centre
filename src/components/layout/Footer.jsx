@@ -13,8 +13,8 @@ function Footer() {
             <div className="container mx-auto text-center">
                 <div className="flex justify-between mb-5">
                     <div className="flex items-baseline space-x-3  mx-20">
-                        <img src="/logo1.png" alt="business logo" className="h-15 w-auto hidden md:block" />
-                        <h1 className="text-xl  font-bold">Artex</h1>
+                        
+                        <h1 className="text-xl  font-bold">ePhon</h1>
                     </div>
                     <div className="flex justify-center space-x-6 my-4 mx-10 text-xl">
                         <FaFacebookF className="cursor-pointer" />
@@ -31,10 +31,11 @@ function Footer() {
                     <div>
                         <h2 className="text-lg font-semibold">Our Services</h2>
                         <ul>
-                            <li className="my-2 cursor-pointer">Architecture Design</li>
-                            <li className="my-2 cursor-pointer">Interior Design</li>
-                            <li className="my-2 cursor-pointer">Project Management</li>
-                            <li className="my-2 cursor-pointer">Consultation</li>
+                            <li className="my-2 cursor-pointer">Phone Sales</li>
+                            <li className="my-2 cursor-pointer">Phone Repair</li>
+                            <li className="my-2 cursor-pointer">Accessories</li>
+                            <li className="my-2 cursor-pointer">Trade-in</li>
+                            <li className="my-2 cursor-pointer">Warranty and Support</li>
                         </ul>
                     </div>
 
@@ -67,7 +68,7 @@ function Footer() {
                     </div>
 
                 </div>
-                <p className="mt-8 text-sm">&copy; {new Date().getFullYear()} Artex - All rights reserved.</p>
+                <p className="mt-8 text-sm">&copy; {new Date().getFullYear()} ePhon - All rights reserved.</p>
 
             </div>
         </footer>

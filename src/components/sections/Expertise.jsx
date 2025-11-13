@@ -12,7 +12,7 @@ function Expertise() {
 
                 <div className="container mx-auto">
                     <h2 className="text-4xl  text-violet-700 font-bold  mb-4 mt-8 md:text-5xl ">Empowering you to connect</h2>
-                    <p className="text-lg  text-violet-700 mb-6 md:text-xl">At [ephone], we are dedicated to providing the best phone buying experience.</p>
+                    <p className="text-lg  text-violet-700 mb-6 md:text-xl">At ePhone, we are dedicated to providing the best phone buying experience.</p>
 
                     <ul className=" text-violet-700 mt-9 space-y-4">
 

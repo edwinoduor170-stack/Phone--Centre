@@ -5,12 +5,12 @@ function Contact() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-4 relative">
 
                 <div className="hidden lg:block">
-                    <img src="/Location.jpg" alt="Contact Us" className="mx-auto z-20 w-120 h-120" />
+                    <img src="/Product 5.jpg" alt="Contact Us" className="mx-auto z-20 w-120 h-120" />
                 </div>
 
                 <div>
-                    <h2 className="text-3xl font-bold mb-9 text-white">Ready to Begin Your Architectural Journey? <br /> Schedule Your Complementary Consultation</h2>
-                    <p className="text-lg text-gray-100 mb-12"> Contact us today to schedule your free consultation and take the first step towards creating your dream space.</p>
+                    <h2 className="text-3xl font-bold mb-9 text-white">Put power in your hands<br /> ePhon Empowering Your Hands</h2>
+                    <p className="text-lg text-gray-100 mb-12">Simply enjoy quality life by getting in touch with us.</p>
 
                     <div className="flex ">
                         <form action="#">

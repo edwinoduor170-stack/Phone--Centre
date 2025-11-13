@@ -48,20 +48,50 @@ function Services() {
                 </div>
 
                 <div>
-                    <img src="/Shopping.jpg" alt="Our sales" className="w-full h-auto rounded-2xl" />
+                    <img src="/Product 1.jpg" alt="Our sales" className="w-full h-auto rounded-2xl" />
                     <h3 className="text-3xl mt-3 font-bold text-violet-700 ">Shopping</h3>
 
                 </div>
 
                 <div>
-                    <img src="/Location.jpg" alt="Our sales" className="w-full h-auto rounded-2xl" />
+                    <img src="/Product 2.jpg" alt="Our sales" className="w-full h-auto rounded-2xl" />
                     <h3 className="text-3xl mt-3 font-bold text-violet-700">Location</h3>
+
+                </div>
+
+                <div>
+                    <img src="/Customr Care.jpg" alt="Our sales" className="w-full h-auto rounded-2xl" />
+                    <h3 className="text-3xl mt-3 font-bold text-violet-700">Customer Care</h3>
+
+                </div>
+
+                <div>
+                    <img src="/Product 4.jpg" alt="Our sales" className="w-full h-auto rounded-2xl" />
+                    <h3 className="text-3xl mt-3 font-bold text-violet-700">Phone Repairs</h3>
 
                 </div>
 
                 <div>
                     <img src="/Varieties.jpg" alt="Our sales" className="w-full h-auto rounded-2xl" />
                     <h3 className="text-3xl mt-3 font-bold text-violet-700">Varieties</h3>
+
+                </div>
+
+                <div>
+                    <img src="/Product 5.jpg" alt="Our sales" className="w-full h-auto rounded-2xl" />
+                    <h3 className="text-3xl mt-3 font-bold text-violet-700">Screen Repairs</h3>
+
+                </div>
+
+                <div>
+                    <img src="/Product 6.jpg" alt="Our sales" className="w-full h-auto rounded-2xl" />
+                    <h3 className="text-3xl mt-3 font-bold text-violet-700">Quality Control</h3>
+
+                </div>
+
+                <div>
+                    <img src="/product 8.jpg" alt="Our sales" className="w-full h-auto rounded-2xl" />
+                    <h3 className="text-3xl mt-3 font-bold text-violet-700">Meetin Your Desire</h3>
 
                 </div>
 
