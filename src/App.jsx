@@ -2,7 +2,7 @@ import { FaMicrophoneAltSlash } from 'react-icons/fa';
 import './App.css'
 import Header from './components/layout/Header';
 import Hero from './components/sections/Hero';
-import Stats from './components/sections/Stats';
+import Stats from './components/sections/stats';
 import SectionWrapper from './components/common/Wrapper';
 import Expertise from './components/sections/Expertise';
 import Services from './components/sections/Services';
